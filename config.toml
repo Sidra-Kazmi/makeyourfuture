@@ -26,7 +26,7 @@ title = "Make Your Future Today"
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and
     # https://gohugo.io/templates/internal#open-graph.
-    images = ["pexels-cover-image-1.jpg"]
+    images = ["Custom-cover-image-1.jpg"]
 
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
