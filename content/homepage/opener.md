@@ -3,10 +3,8 @@ title: 'Welcome'
 weight: 1
 ---
 
-Hi there. This section will not show up in the header menu above. Other than that, there's really not much to see here. I did however append some generated »Lorem ipsum«-paragraphs for you. Enjoy!
+Hi there. Welcome to the amazing world of Neuro-Linguistic Programming, also referred as NLP in short. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-
-Nulla aliquet, nisl pulvinar fermentum ultricies.
+NLP is based on a variety of techniques, such as Hypnotherapy, Emotional Freedom Technique, TIME technique, to name a few. These methods are used for emotional, psychological, and personal development. There is a strong connection between the human mind, language, and behavior. Just some small changes in these three aspects of your personality can make a huge difference. The outcome that you will get after making these changes will not only help you achieve your goals but change your life and your future for better. 
 
 ![Success](images/Success.jpg)
