@@ -7,7 +7,7 @@ header_menu: true
 
 ##### Professionel Experience
 
-Hi, I am Sidra Kazmi. I am a certified Life Coach, NLP Practitioner-Trainer, and a Child and Youth Counselor for the last ten years. 
+Hi, I am Sidra Kazmi, a certified Life Coach, NLP Practitioner-Trainer, and a Child and Youth Counselor for the last ten years. 
 
 I have a Bachelor's in Psychology from Brock University, one of Canada's distinguished universities. My post-grad diploma as a Child and Youth Counselor equipped me to help children and youth overcome their mental and developmental issues. I got my certification and training from Transform Destiny, California, USA. 
 
